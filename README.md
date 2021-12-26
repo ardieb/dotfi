@@ -1,6 +1,4 @@
-# Publicani
-Publicani is an application for tracking cryptocurrency P&amp;L for both tax and portfolio management purposes.
+# Tabernacle
+Tabernacle is an application for tracking cryptocurrency P&amp;L for both tax and portfolio management purposes.
 ## Purpose
 With increasing speculative interest in cyrptocurrencies from both institutions and retail investors, there is also increasing interest from government regulators. With regulation comes the need for good book-keeping -- Publicani makes booking on the blockchain easy by centralizing trades made on centralized exchanges (CEXs) and decentralized exchanges (DEXs) into a single, easily digestable format. 
-## Name
-This repository is named after the publicani (pl.). In antiquity, publicani were public contractors, in whose official capacity they often supplied the Roman legions and military, managed the collection of port duties, and oversaw public building projects. In addition, they served as tax collectors for the Roman Republic (and later the Roman Empire), farming the taxes of the Roman provinces, and bidding on contracts (from the Senate in Rome) for the collection of various types of taxes. Importantly, this role as tax collectors was not emphasized until late into the history of the Republic (c. 1st century BC). The publicans were usually of the class of equites.
